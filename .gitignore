@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore dotenv files
+.env
+
+# Ignore output reports
+# outputs/
+
+# Ignore __pycache__
+__pycache__/
+
+# Ignore ChromaDB files
+chroma_store/
